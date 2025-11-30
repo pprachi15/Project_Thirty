@@ -2,7 +2,7 @@
 
 ## Introduction
 30 Day Applied Business Strategy Challenge is a personal initiative where I solve one real world business problem every day for thirty days.  
-The goal is not to write code for the sake of code. The goal is to think like someone who belongs inside a strong team — someone who can take an ambiguous problem, understand the business impact, design a structured approach, and deliver a usable solution.
+The goal is not to write code for the sake of code. The goal is to think like someone who belongs inside a strong team, someone who can take an ambiguous problem, understand the business impact, design a structured approach, and deliver a usable solution.
 
 ---
 
