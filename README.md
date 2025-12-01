@@ -18,12 +18,26 @@ The goal is not to write code for the sake of code. The goal is to think like so
         <tr><td align="center" style="height:56px; font-weight:bold;">Day 1</td></tr>
         <tr>
           <td align="center" style="height:200px;">
-            <img src="https://github.com/user-attachments/assets/3d2ebb28-7d48-4e02-a30b-9f33bffa9b00" alt="Day 1" width="260" height="160">
+            <img src="https://github.com/user-attachments/assets/06cbccdc-57a6-4d30-8283-fb07289c0ae7" alt="Day 1" width="260" height="160">
           </td>
         </tr>
         <tr><td align="center" style="height:64px;"><a href="https://github.com/pprachi15/Inaccurate_Revenue_Forecasting">Project Link</a></td></tr>
       </table>
     </td>
+     <td style="width:33%; padding:0; border:1px solid #3a3a3a;">
+      <table style="width:100%; height:320px; table-layout:fixed;">
+        <tr><td align="center" style="height:56px; font-weight:bold;">Day 2</td></tr>
+        <tr>
+          <td align="center" style="height:200px;">
+            <img src="https://github.com/user-attachments/assets/75a3617c-9f79-4579-854d-01af9cc0e6cd" alt="Day 1" width="260" height="160">
+          </td>
+        </tr>
+        <tr><td align="center" style="height:64px;"><a href="https://github.com/pprachi15/Customer-Churn-Impact-Analysis.git">Project Link</a></td></tr>
+      </table>
+    </td>
+
+
+
 <!--   
     <!-- Day 2 placeholder 
     <td style="width:33%; padding:0; border:1px solid #3a3a3a;">
