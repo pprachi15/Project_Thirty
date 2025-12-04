@@ -21,55 +21,50 @@ The goal is not to write code for the sake of code. The goal is to think like so
             <img src="https://github.com/user-attachments/assets/06cbccdc-57a6-4d30-8283-fb07289c0ae7" alt="Day 1" width="260" height="160">
           </td>
         </tr>
-        <tr><td align="center" style="height:64px;"><a href="https://github.com/pprachi15/Inaccurate_Revenue_Forecasting">Project Link</a></td></tr>
+        <tr><td align="center"><a href="https://github.com/pprachi15/Inaccurate_Revenue_Forecasting">Project Link</a></td></tr>
       </table>
     </td>
-     <td style="width:33%; padding:0; border:1px solid #3a3a3a;">
+    <!-- Day 2 -->
+    <td style="width:33%; padding:0; border:1px solid #3a3a3a;">
       <table style="width:100%; height:320px; table-layout:fixed;">
         <tr><td align="center" style="height:56px; font-weight:bold;">Day 2</td></tr>
         <tr>
-          <td align="center" style="height:200px;">
+          <td align="center">
             <img src="https://github.com/user-attachments/assets/75a3617c-9f79-4579-854d-01af9cc0e6cd" alt="Day 2" width="260" height="160">
           </td>
         </tr>
-        <tr><td align="center" style="height:64px;"><a href="https://github.com/pprachi15/Customer-Churn-Impact-Analysis.git">Project Link</a></td></tr>
+        <tr><td align="center"><a href="https://github.com/pprachi15/Customer-Churn-Impact-Analysis.git">Project Link</a></td></tr>
       </table>
     </td>
+    <!-- Day 3 -->
     <td style="width:33%; padding:0; border:1px solid #3a3a3a;">
       <table style="width:100%; height:320px; table-layout:fixed;">
         <tr><td align="center" style="height:56px; font-weight:bold;">Day 3</td></tr>
         <tr>
-          <td align="center" style="height:200px;">
+          <td align="center">
             <img src="https://github.com/user-attachments/assets/7c251ca5-669b-433a-9a6b-3ea7e92b804a" alt="Day 3" width="260" height="160">
           </td>
         </tr>
-        <tr><td align="center" style="height:64px;"><a href="https://github.com/pprachi15/Customer_Segmentation_and_Risk_Intelligence.git">Project Link</a></td></tr>
+        <tr><td align="center"><a href="https://github.com/pprachi15/Customer_Segmentation_and_Risk_Intelligence.git">Project Link</a></td></tr>
       </table>
     </td>
+  </tr>
 
 
-<!--   
-    <!-- Day 2 placeholder 
+  <!-- ROW 2 (only Day 4 for now) -->
+  <tr>
+    <!-- Day 4 -->
     <td style="width:33%; padding:0; border:1px solid #3a3a3a;">
       <table style="width:100%; height:320px; table-layout:fixed;">
-        <tr><td align="center" style="height:56px; font-weight:bold;">Day 2</td></tr>
+        <tr><td align="center" style="height:56px; font-weight:bold;">Day 4</td></tr>
         <tr>
-          <td align="center" style="height:200px; color:#999;">Coming Soon</td>
+          <td align="center">
+            <img src="https://github.com/user-attachments/assets/fa6977d1-6d98-47c3-8c4f-7a797ae86d27" alt="Day 4" width="260" height="160">
+          </td>
         </tr>
-        <tr><td align="center" style="height:64px;"><i>Releases tomorrow</i></td></tr>
+        <tr><td align="center"><a href="https://github.com/pprachi15/Fraud-Detection-and-Revenue-Protection.git">Project Link</a></td></tr>
       </table>
     </td>
-    <!-- Day 3 placeholder 
-    <td style="width:33%; padding:0; border:1px solid #3a3a3a;">
-      <table style="width:100%; height:320px; table-layout:fixed;">
-        <tr><td align="center" style="height:56px; font-weight:bold;">Day 3</td></tr>
-        <tr>
-          <td align="center" style="height:200px; color:#999;">Coming Soon</td>
-        </tr>
-        <tr><td align="center" style="height:64px;"><i>Releases soon</i></td></tr>
-      </table>
-    </td>
-    -->
 
   </tr>
 
