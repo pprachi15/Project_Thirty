@@ -51,7 +51,7 @@ The goal is not to write code for the sake of code. The goal is to think like so
   </tr>
 
 
-  <!-- ROW 2 (only Day 4 for now) -->
+  <!-- ROW 2 -->
   <tr>
     <!-- Day 4 -->
     <td style="width:33%; padding:0; border:1px solid #3a3a3a;">
@@ -65,7 +65,18 @@ The goal is not to write code for the sake of code. The goal is to think like so
         <tr><td align="center"><a href="https://github.com/pprachi15/Fraud-Detection-and-Revenue-Protection.git">Project Link</a></td></tr>
       </table>
     </td>
-
+     <!-- Day 5 -->
+    <td style="width:33%; padding:0; border:1px solid #3a3a3a;">
+      <table style="width:100%; height:320px; table-layout:fixed;">
+        <tr><td align="center" style="height:56px; font-weight:bold;">Day 5</td></tr>
+        <tr>
+          <td align="center">
+            <img src="https://github.com/user-attachments/assets/5afa219a-828a-4216-8127-413fb877f2e5" alt="Day 5" width="260" height="160">
+          </td>
+        </tr>
+        <tr><td align="center"><a href="https://github.com/pprachi15/Real-Time-Incident-Alerting.git">Project Link</a></td></tr>
+      </table>
+    </td>
   </tr>
 
 </table>
