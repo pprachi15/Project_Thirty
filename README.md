@@ -131,6 +131,22 @@ The goal is not to write code for the sake of code. The goal is to think like so
     </td>
   </tr>
 
+  <!-- ROW 4 -->
+  <tr>
+    <!-- Day 10 -->
+    <td style="width:33%; padding:0; border:1px solid #3a3a3a;">
+      <table style="width:100%; height:320px; table-layout:fixed;">
+        <tr><td align="center" style="height:56px; font-weight:bold;">Day 10</td></tr>
+        <tr>
+          <td align="center" style="height:200px;">
+            <img src="https://github.com/user-attachments/assets/61627d4f-d81b-4e61-a2b1-06641ded4d14" alt="Day 10" width="260" height="160">
+          </td>
+        </tr>
+        <tr><td align="center"><a href="https://github.com/pprachi15/Financial-Product-Marketing-Insights.git">Project Link</a></td></tr>
+      </table>
+    </td>
+  </tr>
+
 </table>
 
 
