@@ -91,6 +91,46 @@ The goal is not to write code for the sake of code. The goal is to think like so
     </td>
   </tr>
 
+   <!-- ROW 3 -->
+  <tr>
+    <!-- Day 7 -->
+    <td style="width:33%; padding:0; border:1px solid #3a3a3a;">
+      <table style="width:100%; height:320px; table-layout:fixed;">
+        <tr><td align="center" style="height:56px; font-weight:bold;">Day 7</td></tr>
+        <tr>
+          <td align="center" style="height:200px;">
+            <img src="https://github.com/user-attachments/assets/13acc40c-ad2b-473b-9157-2ea76290ff7c" alt="Day 7" width="260" height="160">
+          </td>
+        </tr>
+        <tr><td align="center"><a href="https://www.linkedin.com/posts/prachi-datawhisperer_productmanagement-goldmansachs-analytics-activity-7403615362832883712-_PT1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD_8olYBoGeFeTULzo81GnG02khpK6PjzTc">Week 1 Reflection</a></td></tr>
+      </table>
+    </td>
+    <!-- Day 8 -->
+    <td style="width:33%; padding:0; border:1px solid #3a3a3a;">
+      <table style="width:100%; height:320px; table-layout:fixed;">
+        <tr><td align="center" style="height:56px; font-weight:bold;">Day 8</td></tr>
+        <tr>
+          <td align="center">
+            <img src="https://github.com/user-attachments/assets/2385bf06-b3af-4f76-9d3e-f1b9f422a9af" alt="Day 8" width="260" height="160">
+          </td>
+        </tr>
+        <tr><td align="center"><a href="https://github.com/pprachi15/Credit-Card-Growth-Funnel-Analysis.git">Project Link</a></td></tr>
+      </table>
+    </td>
+    <!-- Day 9 -->
+    <td style="width:33%; padding:0; border:1px solid #3a3a3a;">
+      <table style="width:100%; height:320px; table-layout:fixed;">
+        <tr><td align="center" style="height:56px; font-weight:bold;">Day 9</td></tr>
+        <tr>
+          <td align="center">
+            <img src="https://github.com/user-attachments/assets/8adb0cfd-9b50-443c-b71c-fddd71c725ec" alt="Day 9" width="260" height="160">
+          </td>
+        </tr>
+        <tr><td align="center"><a href="https://github.com/pprachi15/Credit-Line-Increase-Eligibility.git">Project Link</a></td></tr>
+      </table>
+    </td>
+  </tr>
+
 </table>
 
 
