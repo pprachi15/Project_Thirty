@@ -151,18 +151,27 @@ The goal is not to write code for the sake of code. The goal is to think like so
         <tr><td align="center" style="height:56px; font-weight:bold;">Day 11</td></tr>
         <tr>
           <td align="center" style="height:200px;">
-            <img src="https://github.com/user-attachments/assets/0769ab80-d884-42fb-a0e1-560e07bfbeaf" alt="Day 11" width="260" height="160">
+            <img src="https://github.com/user-attachments/assets/bf44f989-ccea-476b-9a0d-f86639cc0eb2" alt="Day 11" width="260" height="160">
           </td>
         </tr>
         <tr><td align="center"><a href="https://www.linkedin.com/posts/prachi-datawhisperer_jira-servicenow-analytics-activity-7405105831261700096-SBnu?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD_8olYBoGeFeTULzo81GnG02khpK6PjzTc">Post</a></td></tr>
       </table>
     </td>
+     <!-- Day 12 -->
+    <td style="width:33%; padding:0; border:1px solid #3a3a3a;">
+      <table style="width:100%; height:320px; table-layout:fixed;">
+        <tr><td align="center" style="height:56px; font-weight:bold;">Day 12</td></tr>
+        <tr>
+          <td align="center" style="height:200px;">
+            <img src="https://github.com/user-attachments/assets/6cebfa83-842f-4e32-8627-886ebdb90c87" alt="Day 12" width="260" height="160">
+          </td>
+        </tr>
+        <tr><td align="center"><a href="https://github.com/pprachi15/Employee-Engagement-and-Workforce-Risk.git">Project Link</a></td></tr>
+      </table>
+    </td>
   </tr>
 
 </table>
-
-<img width="1512" height="982" alt="image" src="https://github.com/user-attachments/assets/0769ab80-d884-42fb-a0e1-560e07bfbeaf" />
-
 
 
 ---
